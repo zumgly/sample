@@ -1,13 +1,6 @@
 <?php
 
-/**
- * BuddyPress XProfile Filters
- *
- * Apply WordPress defined filters
- *
- * @package BuddyPress
- * @subpackage XProfileFilters
- */
+
 
 // Exit if accessed directly
 if ( !defined( 'ABSPATH' ) ) exit;
